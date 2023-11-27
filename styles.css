@@ -1,0 +1,128 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color: pink;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 800;
+    padding: 0 20px;
+    margin: 10px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+    background-color: green;
+}
+
+.fond1{
+    height: 200px;
+    display:none;
+}
+.fond2{
+    height: 200px;
+    display:none;
+}
+
+.text2{
+    display: none;
+}
+
+.foundation{
+    display:flex;
+    justify-content: center;
+}
+
+.fb{
+display: none;
+}
+.fb2{
+    display: none;}
+.back{
+  height: 40px;
+  background-color: green; 
+  display: none;
+}
+.back2{
+  height: 40px;
+  background-color: green; 
+  display: none;
+}
+
+.back3{
+  height: 40px;
+  background-color: green; 
+  display: none;
+}
+
+.text3{display:none;}
+.conc1{display:none;
+height: 200px;}
+.conc2{display:none;
+height: 200px;}
+.fondresult{display:none;
+height: 200px;}
+
+.concresult{display:none; height: 300px;}
+.text4{display:none;}
+.cont1{display:none;}
+.cont2{display:none;}
+
+
+.contresult{display:none;
+height: 400px;}
+.text5{display:none;}
+.eye1{display:none;}
+.eye2{display:none;}
+
+.color{
+    height: 60px;
+    background-image: linear-gradient(to right, red , blue);
+    color: white;
+    display:none;
+}
+
+.neutral{
+    height: 60px;
+    background-image: linear-gradient(to right, beige , saddlebrown);
+    color: black;
+    display: none;
+}
+
+.replay{
+    height: 40px;
+  background-color: green; 
+  display: none;
+}
+
+.replay2{
+    height: 40px;
+  background-color: green; 
+  display: none;
+}
+
+.hi1{display:none;
+    height:300px;
+}
+
+.hi2{display:none;
+    height:300px;
+}
